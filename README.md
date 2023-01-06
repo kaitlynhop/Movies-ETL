@@ -23,5 +23,5 @@ The purpose of this analysis was to create an ETL pipeline, under 1 function tha
 <br>**Image 1. Rows Imported**
 <br>![Image link](/Resources/Ratings_load.png)
 <br>
-<br>Image 1. Over 26,000,000,000 rows of data were imported into database.
+<br>Image 1. Over 26,000,000 rows of data were imported into database.
 <br>
